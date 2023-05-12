@@ -25,20 +25,19 @@ body {
     color: #f6fbf4;
     margin-left: 100px;
     margin-right: 100px;
-    text-align: justify-all;
+    text-align: center;
     font-weight: lighter;
   }
 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    height: auto;
-    align-items: center;
+    width: 80%
   }
   a {
-    color: #242424;
-    font-weight: bolder;
+    color: #f6fbf4;
     margin-left: 100px;
     margin-right: 100px;
     text-align: center;
+    font-weight: bold;
   }
